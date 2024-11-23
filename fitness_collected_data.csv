@@ -1,0 +1,54 @@
+Name,gender,age,weight,dream_weight,height,workout_type,BMI,Dream BMI,Dream BMI Status,Current BMI category,Age Category,exercise,wellness_activity,food_intake,water_intake
+Durai,male,48,70,65,170,gym,24.22145329,22.49134948,Good to go!,normal,47-48,"Strength training, elliptical","Nature time, light meditation","Balanced meals with fruits, veggies, proteins",2.5 liters
+Sridhar,male,38,85,70,170,gym,29.41176471,24.22145329,Good to go!,overweight,37-38,"CrossFit style workouts, bike sprints",Mindfulness practices,"High-fiber foods, low-cal proteins",3 liters
+Dakchinamoorthy,male,25,55,65,165,cardio/home_workout,20.2020202,23.87511478,Good to go!,normal,25-26,"Home Pilates, jogging",Guided stretching sessions,"Fresh fruits, lean protein snacks",2.5 liters
+Mani,male,40,75,65,165,cardio/home_workout,27.54820937,23.87511478,Good to go!,overweight,39-40,"Interval walking, resistance band exercises","Guided relaxation, light reading","Fresh salads, low-carb vegetables, nuts",3 liters
+Aravindan,male,45,75,68,170,cardio/home_workout,25.95155709,23.52941176,Good to go!,overweight,45-46,"At-home HIIT, light jogging","Relaxation, deep breathing","Low-sugar fruits, green veggies, protein snacks",3 liters
+Suresh,male,40,80,70,180,gym,24.69135802,21.60493827,Good to go!,normal,39-40,"Strength training, elliptical","Outdoor walks, meditation","Mixed veggies, lean proteins, quinoa",2.5 liters
+Sathish,male,42,75,65,170,gym,25.95155709,22.49134948,Good to go!,overweight,41-42,"Treadmill sprints, functional training",Yoga,"Leafy greens, protein shakes without sugar",3 liters
+Balaji,male,38,75,65,175,gym,24.48979592,21.2244898,Good to go!,normal,37-38,"Rowing, light strength training",Gentle stretching,"Varied vegetables, lean proteins",2.5 liters
+Hariharan,male,35,78,65,170,cardio/home_workout,26.98961938,22.49134948,Good to go!,overweight,35-36,"Fast-paced walking, bodyweight HIIT",Relaxation exercises,"Vegetable soups, lean beef, fruits",3 liters
+Venkatesh,male,32,75,65,175,cardio/home_workout,24.48979592,21.2244898,Good to go!,normal,31-32,"Light resistance bands, floor exercises","Music listening, short walks","Whole grain pastas, varied salads",2.5 liters
+Vasanth,male,35,80,68,185,gym,23.37472608,19.86851717,Good to go!,normal,35-36,"Steady cycling, resistance training",Outdoor strolls,"Fresh vegetables, chicken",2.5 liters
+Akilesh,male,30,70,63,175,gym,22.85714286,20.57142857,Good to go!,normal,29-30,"Moderate lifting, rowing machine",Gratitude journaling,"Vegetable stir-fry, quinoa",2.5 liters
+Krishnan,male,54,80,68,175,cardio/home_workout,26.12244898,22.20408163,Good to go!,overweight,53-54,"Interval walking, resistance band exercises","Mindfulness practices, easy reading","Fresh salads, light proteins, fruit snacks",3 liters
+Suresh.P,male,40,75,65,170,cardio/home_workout,25.95155709,22.49134948,Good to go!,overweight,39-40,"Interval walking, resistance band exercises","Guided relaxation, light reading","Fresh salads, low-carb vegetables, nuts",3 liters
+Suresh.C,male,48,90,70,170,gym,31.14186851,24.22145329,Good to go!,overweight,47-48,"HIIT, rowing",Deep breathing exercises,"Low-carb vegetables, protein-rich meals",3 liters
+Srivatsan,male,45,90,68,170,gym,31.14186851,23.52941176,Good to go!,overweight,45-46,"HIIT, resistance training",Yoga,"Leafy greens, grilled chicken, light proteins",3 liters
+Saravanan,male,48,75,65,175,cardio/home_workout,24.48979592,21.2244898,Good to go!,normal,47-48,"Brisk walking, light aerobics",Guided meditation,"Fruits, whole grains, lean proteins",2.5 liters
+Abbas,male,45,80,65,170,gym,27.6816609,22.49134948,Good to go!,overweight,45-46,"HIIT, resistance training",Yoga,"Leafy greens, grilled chicken, light proteins",3 liters
+Sharmi,female,46,67,66,188,cardio/home_workout,18.95654142,18.67360797,Good to go!,normal,45-46,"Skipping, Pilates",Breath-focused meditation,"Fruits, vegetables, nuts",2.5 liters
+Harini,female,17,45,50,162,cardio/home_workout,17.14677641,19.05197378,Good to go!,underweight,17-18,"Dance workouts, light cycling",Listening to nature sounds,"Dried fruits, nut butters, dense smoothies",2 liters
+Kavi,female,48,67,65,166,cardio/home_workout,24.31412397,23.58832922,Good to go!,normal,47-48,"Brisk walking, light aerobics",Guided meditation,"Fruits, whole grains, lean proteins",2.5 liters
+Poovizhi,female,36,51,53,153,cardio/home_workout,21.78649237,22.64086462,Good to go!,normal,35-36,"Home Pilates, skipping rope",Deep breathing,"Legumes, veggies, grilled proteins",2.5 liters
+Ramya devi,female,42,67,60,172,cardio/home_workout,22.64737696,20.2812331,Good to go!,normal,41-42,"Skipping, Pilates",Breath-focused meditation,"Fruits, legumes, light salads",2.5 liters
+Rekha,female,43,71,60,164,cardio/home_workout,26.39797739,22.30814991,Good to go!,overweight,43-44,"Jumping jacks, resistance bands","Meditation, light outdoor activity","Fresh salads, low-carb veggies, protein snacks",3 liters
+Vishnu,male,21,78,70,170,gym,26.98961938,24.22145329,Good to go!,overweight,21-22,"Treadmill sprints, functional training",Yoga,"Leafy greens, protein shakes without sugar",3 liters
+Joe,female,40,77,68,167,gym,27.60945176,24.38237298,Good to go!,overweight,39-40,"HIIT, resistance training",Deep breathing exercises,"Leafy greens, grilled chicken, light proteins",3 liters
+Subha,female,41,67,58,168,cardio/home_workout,23.73866213,20.54988662,Good to go!,normal,41-42,"Skipping, Pilates",Breath-focused meditation,"Fruits, legumes, light salads",2.5 liters
+Vijayalakshimi,female,54,92,70,162,cardio/home_workout,35.05563176,26.6727633,Enter advisable dream weight,overweight,53-54,"Interval walking, resistance band exercises","Mindfulness practices, easy reading","Fresh salads, light proteins, fruit snacks",3 liters
+Haripriya,female,30,80,70,171,cardio/home_workout,27.35884546,23.93898977,Good to go!,overweight,29-30,"Home HIIT, shadow boxing",Nature listening,"Fresh veggies, lean protein, berries",3 liters
+Anitha,female,46,65,60,158,cardio/home_workout,26.03749399,24.03460984,Good to go!,overweight,45-46,"At-home HIIT, light jogging","Relaxation, deep breathing","Low-sugar fruits, green veggies, protein snacks",3 liters
+Roja,female,25,70,60,182,cardio/home_workout,21.13271344,18.11375438,Enter advisable dream weight,normal,25-26,"Home Pilates, jogging",Guided stretching sessions,"Fresh fruits, lean protein snacks",2.5 liters
+Vasuki,female,39,55,57,164,cardio/home_workout,20.44913742,21.19274242,Good to go!,normal,39-40,"Brisk walking, Pilates",Mindfulness meditation,"Fruits, salads, nuts, lean proteins",2.5 liters
+Priya,female,34,60,58,160,cardio/home_workout,23.4375,22.65625,Good to go!,normal,33-34,"Home aerobics, cycling",Calming music,"Low-sugar fruits, lean meats",2.5 liters
+sri harsh,male,21,55,70,177,gym,17.55561939,22.34351559,Good to go!,underweight,21-22,"Light weightlifting, stair climber",Art or creative activity,"Avocado, eggs, whole grain pasta",2 liters
+madhan,male,21,60,69,167,cardio/home_workout,21.51385851,24.74093729,Good to go!,normal,21-22,"Skipping, Pilates",Breath-focused meditation,"Fruits, legumes, light salads",2.5 liters
+sesha,male,21,80,75,182,cardio/home_workout,24.1516725,22.64219297,Good to go!,normal,21-22,"Skipping, Pilates",Breath-focused meditation,"Fruits, legumes, light salads",2.5 liters
+thayumanavan,male,21,85,75,177,cardio/home_workout,27.13141179,23.93948099,Good to go!,overweight,21-22,"High knees, burpees, at-home HIIT","Meditation, outdoor activities","Low-sugar fruits, green veggies, grilled chicken",3 liters
+thayu,male,21,85,75,177,gym,27.13141179,23.93948099,Good to go!,overweight,21-22,"Treadmill sprints, functional training",Yoga,"Leafy greens, protein shakes without sugar",3 liters
+nitin,male,21,75,75,178,cardio/home_workout,23.67125363,23.67125363,Good to go!,normal,21-22,"Skipping, Pilates",Breath-focused meditation,"Fruits, legumes, light salads",2.5 liters
+varshy,female,21,77,70,170,cardio/home_workout,26.64359862,24.22145329,Good to go!,overweight,21-22,"High knees, burpees, at-home HIIT","Meditation, outdoor activities","Low-sugar fruits, green veggies, grilled chicken",3 liters
+preethiga,female,21,65,60,163,cardio/home_workout,24.4646016,22.58270917,Good to go!,normal,21-22,"Skipping, Pilates",Breath-focused meditation,"Fruits, legumes, light salads",2.5 liters
+abirami,female,20,45,53,159,cardio/home_workout,17.7999288,20.96436059,Good to go!,underweight,19-20,"Bodyweight exercises, light jogging","Calming music, outdoor walks","Nut butters, smoothies, whole milk products",2 liters
+neha,female,21,55,50,152,cardio/home_workout,23.80540166,21.64127424,Good to go!,normal,21-22,"Skipping, Pilates",Breath-focused meditation,"Fruits, legumes, light salads",2.5 liters
+kanthi,female,21,65,60,159,cardio/home_workout,25.71100827,23.7332384,Good to go!,overweight,21-22,"High knees, burpees, at-home HIIT","Meditation, outdoor activities","Low-sugar fruits, green veggies, grilled chicken",3 liters
+ kans,female,21,65,60,159,gym,25.71100827,23.7332384,Good to go!,overweight,21-22,"Treadmill sprints, functional training",Yoga,"Leafy greens, protein shakes without sugar",3 liters
+aswathi,female,21,59,55,168,cardio/home_workout,20.90419501,19.48696145,Good to go!,normal,21-22,"Skipping, Pilates",Breath-focused meditation,"Fruits, legumes, light salads",2.5 liters
+aishu,female,22,63,55,158,cardio/home_workout,25.23634033,22.03172568,Good to go!,overweight,21-22,"High knees, burpees, at-home HIIT","Meditation, outdoor activities","Low-sugar fruits, green veggies, grilled chicken",3 liters
+vedha,female,20,55,53,158,gym,22.03172568,21.23057202,Good to go!,normal,19-20,"Strength training, 20 mins elliptical","Journaling, meditation","Mixed veggies, chicken, whole wheat bread",2.5 liters
+abishek,male,24,80,75,185,gym,23.37472608,21.9138057,Good to go!,normal,23-24,"Circuit training, rowing","Music, spending time in nature","Veggies, lean meat, brown rice",2.5 liters
+priya,female,24,68,58,158,gym,27.23922448,23.23345618,Good to go!,overweight,23-24,"Treadmill sprints, functional training",Yoga,"Leafy greens, protein shakes without sugar",3 liters
+mohana,female,25,68,60,158,cardio/home_workout,27.23922448,24.03460984,Good to go!,overweight,25-26,"Power walking, circuit home exercises","Meditation, soft music","Cucumber, celery, and protein-rich snacks",3 liters
+sugi,female,18,56,55,157,cardio/home_workout,22.7189744,22.31327843,Good to go!,normal,17-18,"Skipping, Pilates",Breath-focused meditation,"Fruits, legumes, light salads",2.5 liters
+deepak,male,21,85,79,179,cardio/home_workout,26.52851035,24.65590962,Good to go!,overweight,21-22,"High knees, burpees, at-home HIIT","Meditation, outdoor activities","Low-sugar fruits, green veggies, grilled chicken",3 liters
