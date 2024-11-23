@@ -16,12 +16,14 @@ Algorithms Used:
 Multi-output Decision Tree 🌳
 Random Forest 🌲
 AdaBoost ⚡
+
 2. Similarity-Based Recommendation 🤝
 For users who prefer comparisons, we implemented a similarity measure approach to match their profiles with similar individuals.
 
 Techniques:
 Cosine Similarity 🧮
 Jaccard Index 🔗
+
 3. Clustering Analysis 🎯
 To uncover hidden patterns, we clustered users based on their fitness attributes, helping us group them into meaningful categories.
 
